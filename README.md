@@ -7,7 +7,7 @@ Welcome to SpaceInvaders! This is a simple console-based implementation of the c
 To run the game, make sure you have the [.NET SDK](https://dotnet.microsoft.com/download) installed on your system. Then, clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/your-username/SpaceInvaders.git
+git clone https://github.com/HNadin/SpaceInvaders.git
 ```
 
 Navigate to the project directory and run the following command to build and execute the game:
